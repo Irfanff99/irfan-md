@@ -21,7 +21,7 @@ global.gopay = '089510497533'
 //=============『 Info Bot 』=================//
 global.namebot = 'IRFANBOT'
 global.gc = 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
-global.web = 'https://instagram.com/irfanff9' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/irfanff9' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/irfanff9'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
@@ -38,7 +38,7 @@ global.wm2 = 'ᯤ creator by IRFANFF9'
 global.wm3 = 'ᯤ IPAN BOT'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/800cce713c00fb7352c51.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
