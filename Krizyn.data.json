@@ -65,7 +65,8 @@
         }
       }
     ],
-    "lastAccountSyncTimestamp": 1656138924
+    "lastAccountSyncTimestamp": 1656138924,
+    "myAppStateKeyId": "AAAAAJ+H"
   },
   "keys": {
     "preKeys": {
@@ -386,8 +387,8 @@
             "_chains": {
               "Bdd17nXUpu1FXi01clg8WilaP8yfFOUZeAXiL03OcccT": {
                 "chainKey": {
-                  "counter": 1,
-                  "key": "ggrbAKT8cDef0jCifuENDsZFH0U+I82F38/dczh/zM4="
+                  "counter": 4,
+                  "key": "eGGObJLxdItxJrdSoAFgW49YSK7mJdvdE4T8L22oS5o="
                 },
                 "chainType": 2,
                 "messageKeys": {}
@@ -404,6 +405,20 @@
           }
         },
         "version": "v1"
+      }
+    },
+    "appStateSyncKeys": {
+      "AAAAAJ+H": {
+        "keyData": "r8waJbxzydVqY4GLoTP0JZAzJXnIDsjLJK/z7jyiSAQ=",
+        "fingerprint": {
+          "rawId": 1085567044,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "1656138925059"
       }
     }
   }
